@@ -1,0 +1,11 @@
+{
+  "name": "yields-hasflash",
+  "description": "Whether or not the browser has flash plugin enabled.",
+  "version": "1.0.0",
+  "keywords": [
+    "flash",
+    "hasflash"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
